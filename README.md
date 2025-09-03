@@ -32,3 +32,30 @@ Minha carreira foi construída unindo **gestão estratégica** e **competências
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" alt="Azure SQL"/>
 </p>  
+
+---
+
+## 📊 Estatísticas GitHub  
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=swaminobrega&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=swaminobrega&show_icons=true&theme=dark&hide_border=false&border_radius=5" height="180"/>
+</div>  
+
+---
+
+## 🌐 Conecte-se comigo  
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/swaminobrega/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="28" />
+  </a>
+  <a href="https://whatsa.me/5548992102702/?t=Ol%C3%A1,%20pode%20deixar%20sua%20mensagem!" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge" height="28" />
+  </a>
+  <a href="mailto:swaminobrega@hotmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="28" />
+  </a>
+</p>
+---
+✍️ *“Tecnologia só faz sentido quando gera valor para o negócio.”*  
