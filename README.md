@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Swami Nóbrega  
 
-**`Consultor em Tecnologia | Gestão de TI • ERP Sankhya • Automação (N8N) • SQL • Data Analytics`**  
+**`Consultor em Tecnologia | Gestão de TI • EIP Sankhya • Automação (N8N) • SQL • Data Analytics`**  
 
 Sou um profissional com mais de 10 anos de experiência em **Tecnologia da Informação**, atuando em **implantação de sistemas, governança de TI, análise de dados e automação de processos**.  
 
@@ -12,7 +12,7 @@ Minha carreira foi construída unindo **gestão estratégica** e **competências
 
 ## 🚀 Áreas de Atuação
 - **Gestão de TI & Governança** – Planejamento estratégico, fornecedores e custos.  
-- **ERP Sankhya** – Personalizações, relatórios, integrações e automações.  
+- **EIP Sankhya** – Personalizações, relatórios, integrações e automações.  
 - **Data Analytics** – Modelagem de dados, relatórios, dashboards e indicadores de performance.  
 - **Automação de Processos (N8N)** – Redução de retrabalho e eficiência operacional.  
 - **SQL & Python** – Análise de dados, relatórios gerenciais e integrações.  
@@ -50,10 +50,6 @@ Minha carreira foi construída unindo **gestão estratégica** e **competências
   <!-- Linguagens -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swaminobrega&layout=compact&theme=dark&hide_border=false&langs_count=6" height="180"/>
 </div>
-
-<p align="center" style="margin-top: 10px;">
-  💡 **Destaques de Linguagens:** Python, SQL e Java são minhas ferramentas-chave para análise de dados, automação e integrações empresariais.  
-</p>
 
 ---
 
