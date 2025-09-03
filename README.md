@@ -57,5 +57,7 @@ Minha carreira foi construída unindo **gestão estratégica** e **competências
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="28" />
   </a>
 </p>
+
 ---
+
 ✍️ *“Tecnologia só faz sentido quando gera valor para o negócio.”*  
