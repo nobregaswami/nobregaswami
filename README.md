@@ -53,7 +53,7 @@ Minha carreira foi construída unindo **gestão estratégica** e **competências
   <a href="https://whatsa.me/5548992102702/?t=Ol%C3%A1,%20pode%20deixar%20sua%20mensagem!" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge" height="28" />
   </a>
-  <a href="mailto:swaminobrega@hotmail.com" target="_blank">
+  <a href="mailto:nobrega.swami@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="28" />
   </a>
 </p>
