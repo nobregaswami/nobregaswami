@@ -12,7 +12,7 @@ Minha carreira foi construída unindo **gestão estratégica** e **competências
 
 ## 🚀 Áreas de Atuação
 - **Gestão de TI & Governança** – Planejamento estratégico, fornecedores e custos.  
-- **ERP Sankhya** – Personalizações, relatórios, integrações e automações.  
+- **EIP Sankhya** – Personalizações, relatórios, integrações e automações.  
 - **Data Analytics** – Modelagem de dados, relatórios, dashboards e indicadores de performance.  
 - **Automação de Processos (N8N)** – Redução de retrabalho e eficiência operacional.  
 - **SQL & Python** – Análise de dados, relatórios gerenciais e integrações.  
@@ -31,6 +31,7 @@ Minha carreira foi construída unindo **gestão estratégica** e **competências
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" alt="Azure SQL"/>
+  <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png" width="40" alt="N8N - Automação de Processos"/>
 </p>  
 
 ---
